@@ -1,0 +1,7 @@
+.build/
+DerivedData/
+.DS_Store
+*.xcuserdata/
+Assets/AppIcon.iconset/
+dist/
+release/
